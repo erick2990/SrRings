@@ -1,0 +1,1 @@
+Para inicar el juego se necesita tener instalado Java y ejecutar los siguientes comandos
